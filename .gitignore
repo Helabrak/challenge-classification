@@ -1,0 +1,5 @@
+# jupyter notebook folder
+.ipynb_checkpoints
+# csv files
+bearing_classes.csv
+bearing_signals.csv
