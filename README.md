@@ -6,7 +6,7 @@ Our team was hired to make an automated bearing testing system and was asked to 
 
 We'll implement different classification algorithms in Python and choose the most appropriate algorithm.
 
-![]((/Visuals/bearing_explanation.jpeg)
+![](/Visuals/bearing_explanation.jpeg)
 
 # Installation
 
