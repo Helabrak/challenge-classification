@@ -26,9 +26,12 @@ We'll implement different classification algorithms in Python and choose the mos
 | Filename                             | Usage                                                     |
 |--------------------------------------|-----------------------------------------------------------|
 | Bearing_analysis.ipynb | Jupyer Notebook file containing Python code.<br>Used to clean the data.<br>Used to draw plots and do preliminary analysis. <br>Used to create our prediction model.|
+| Visuals | Folder containing visuals.|
 
 # Data visualization
-Cool plots come here
+![](/Visuals/visual_mean_status_distribution.png)<br>
+![](/Visuals/visual_mean_a1_x.png)<br>
+![](/Visuals/visual_mean_a1_z.png)
 
 # Contributors
 | Name           | GitHub                                                                              |
