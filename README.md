@@ -106,6 +106,12 @@ We tested 3 models, all of them had high performance:
 
 | Model | Accuracy | Precision | Recall ||--------------------------------------|-----------------------------------------------------------| | Random Forest | 0.91 | 1.00 & 0.25 | 0.91 & 1.00 || SVC | 1.00  | 1.00 & 1.00  | 1.00  & 1.00 || KNN | 1.00  | 1.00 & 1.00  | 1.00  & 1.00 |
 
+| Model         | Accuracy | Precision   | Recall      | 
+| --------------| -------- | ----------- |-------------|
+| Random Forest | 0.91     | 1.00 & 0.25 | 0.91 & 1.00 |
+| SVC           | 1.00     | 1.00 & 1.00 | 1.00 & 1.00 |
+| KNN           | 1.00     | 1.00 & 1.00 | 1.00 & 1.00 |
+
 In the end, we can see that either the SVC or KNN models are the best performer with perfect scores of 1.00.
 We choose KNeighbors as our model and made further analysis/visuals about its performance.
 
