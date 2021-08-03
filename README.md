@@ -32,7 +32,9 @@ We'll implement different classification algorithms in Python and choose the mos
 ![](/Visuals/visual_mean_status_distribution.png)<br>
 The distribution of defective and good bearings is unbalanced: Out of 112 bearing, 100 are defective and 12 are good ones.
 ![](/Visuals/visual_mean_a1_x.png)<br>
+By using the mean of every acceleration for each bearing, we can already identify a pattern using a1_x. Good bearings (1) have generally a higher a1_x than defectives ones (0).
 ![](/Visuals/visual_mean_a1_z.png)
+By using the mean of every acceleration for each bearing, we can already identify a pattern using a1_z. Good bearings (1) have generally a higher a1_z than defectives ones (0).
 
 # Contributors
 | Name           | GitHub                                                                              |
