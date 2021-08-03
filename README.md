@@ -30,6 +30,7 @@ We'll implement different classification algorithms in Python and choose the mos
 
 # Data visualization
 ![](/Visuals/visual_mean_status_distribution.png)<br>
+The distribution of defective and good bearings is unbalanced: Out of 112 bearing, 100 are defective and 12 are good ones.
 ![](/Visuals/visual_mean_a1_x.png)<br>
 ![](/Visuals/visual_mean_a1_z.png)
 
@@ -37,7 +38,7 @@ We'll implement different classification algorithms in Python and choose the mos
 | Name           | GitHub                                                                              |
 |----------------|-------------------------------------------------------------------------------------|
 | Heba Elebrak | <a href="https://github.com/Helabrak">https://github.com/Helabrak               |
-| Leonord Drummond  | <a href="https://github.com/ltadrummond">hhttps://github.com/ltadrummond
+| Leonord Drummond  | <a href="https://github.com/ltadrummond">https://github.com/ltadrummond
 | Michel Ombessa  | <a href="https://github.com/mdifils">https://github.com/mdifils    |
 | Logan Vendrix  | <a href="https://github.com/lvendrix">https://github.com/lvendrix    |
 
