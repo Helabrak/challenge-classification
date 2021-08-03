@@ -104,8 +104,6 @@ We tested 3 models, all of them had high performance:
 - SVC 
 - KNN
 
-| Model | Accuracy | Precision | Recall ||--------------------------------------|-----------------------------------------------------------| | Random Forest | 0.91 | 1.00 & 0.25 | 0.91 & 1.00 || SVC | 1.00  | 1.00 & 1.00  | 1.00  & 1.00 || KNN | 1.00  | 1.00 & 1.00  | 1.00  & 1.00 |
-
 | Model         | Accuracy | Precision   | Recall      | 
 | --------------| -------- | ----------- |-------------|
 | Random Forest | 0.91     | 1.00 & 0.25 | 0.91 & 1.00 |
